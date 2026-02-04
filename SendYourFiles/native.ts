@@ -1,4 +1,4 @@
-import { net } from "electron";
+import { net } from "electron"; // This entire thing either needs to be re-done or removed entirely
 
 export async function uploadFileNative(
     url: string,
@@ -34,3 +34,4 @@ export async function uploadFileNative(
         }
     });
 }
+
