@@ -1,5 +1,4 @@
 # Runa's Vencord Plugins
-#
 
 This repository will host all of the plugins that I make for [Vencord](https://vencord.dev)!
 
@@ -65,3 +64,4 @@ pnpm run inject
 > If you don't see the plugin, make sure it's enabled in your Settings (`Settings > Vencord (Tab) > Plugins > [Plugin Name]`)!
 
 <h6>now explode muahahaha :3</h6> <img src="https://cdn.discordapp.com/emojis/1105406110724268075.webp" width="96" height="96" />
+
