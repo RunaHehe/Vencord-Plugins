@@ -17,4 +17,4 @@ If you're a BuzzHeavier, Catbox (and Litterbox) developer and you want us to rem
 
 made by two furries
 - [Daveberrys](https://github.com/daveberrys) (Idea, Developer)
-- [RunaHehe](https://github.com/RunaHehe) (Developer)
+- [RunaHehe](https://github.com/RunaHehe) (Main Developer)
